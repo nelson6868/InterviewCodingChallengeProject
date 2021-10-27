@@ -6,7 +6,7 @@ import Section from "../components/Section";
 import Solutions from "../components/Solutions";
 import Support from "../components/Support";
 import Trial from "../components/Trial";
-import Navbar from "../components/Navbar";
+
 import Footer from "../components/Footer";
 
 export default function Home() {
