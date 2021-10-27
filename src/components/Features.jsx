@@ -1,6 +1,7 @@
 import React from "react";
 import { BsArrowRightCircle } from "react-icons/bs";
-import FrameCard from "../assets/FrameCard.png";
+import yugo1 from "../assets/FrameCard.png";
+
 
 export default function Features() {
   return (
@@ -23,11 +24,14 @@ export default function Features() {
             <h2>Create Paymment Requests</h2>
             <p>
             <img
-                src={FrameCard.png}
+                src={yugo1}
                 style={{ width: "100%", height: "380px" }}
                 alt=""
               />
+             
             </p>
+          
+             
           </div>
         </div>
       </div>
