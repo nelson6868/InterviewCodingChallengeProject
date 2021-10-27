@@ -12,7 +12,7 @@ export default function Trial() {
           <div className="col-sm-12 col-md-6">
             <div className="col-10">
               <h2>Start accepting</h2>
-              <span style={{backgroundColor:"#ddf6ff", textDecoration:"underline", textDecorationColor:"#b6d7ff",textDecorationStyle:"solid" ,height:"2rem",fontSize:"35px",color:"#1570fd", fontWeight:"bold"}}>payments</span> <span>in minutes.</span>
+              <span style={{backgroundColor:"#ddf6ff", textDecoration:"underline", textDecorationColor:"#b6d7ff",textDecorationStyle:"solid" ,height:"2rem",fontSize:"35px",color:"#1570fd", fontWeight:"bold"}}>payments</span> <span style={{height:"2rem",fontSize:"35px",color:"#32385c", fontWeight:"bold"}}>in minutes.</span>
               
        
               
