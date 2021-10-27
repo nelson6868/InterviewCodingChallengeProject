@@ -4,16 +4,18 @@ export default function Trial() {
   return (
     <div className="container">
       <div className="trial my-5">
-        <h6 className="text-decoration-underline text-success">
-          Ready for a Trial?
-        </h6>
+      <span style={{backgroundColor:"#ddf6ff", textDecoration:"underline", textDecorationColor:"#16b66e" ,height:"2rem",color:"#16b66e", fontWeight:"bold"}}> Ready for a Trial?</span>
+              
+         
+        
         <div className="row">
           <div className="col-sm-12 col-md-6">
             <div className="col-10">
               <h2>Start accepting</h2>
-              <p style={{textDecoration:"underline",textDecorationColor:"red"}}>payments?<span>in minutes</span>
+              <span style={{backgroundColor:"#ddf6ff", textDecoration:"underline", textDecorationColor:"#b6d7ff",textDecorationStyle:"solid" ,height:"2rem",fontSize:"35px",color:"#1570fd", fontWeight:"bold"}}>payments</span> <span>in minutes.</span>
+              
        
-              </p>
+              
             </div>
           </div>
           <div className="col-sm-12 col-md-6 text-end">
