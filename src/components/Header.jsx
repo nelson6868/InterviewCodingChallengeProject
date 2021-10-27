@@ -12,6 +12,10 @@ export default function Header() {
         title={`A faster & easier way to receive ${"payments"} online.`}
         subtitle="Lorem ipsum v dolor sit, amet consectetur adipisicing consectetur perspiciatis officia dolorum consectetur officia debitis."
       /> */}
+       <span>Scuad builds innovative pathways to the enable all types of businesses and <br/>
+       <span>individuals from around the world makes and receive payments smarter and<br/> simpler</span>
+       </span>
+
       <hr />
     </div>
   );
