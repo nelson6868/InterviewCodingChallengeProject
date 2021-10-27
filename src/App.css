@@ -1,0 +1,18 @@
+/* .header  */
+.banner {
+  width: 380px;
+}
+.features {
+  margin-top: 40px;
+}
+li.borderless {
+  border: 0 none;
+}
+.card-body {
+  background-color: rgb(245, 245, 245) !important;
+}
+.nav-link{
+  padding: 0.5rem .5rem !important;
+  color: rgb(46, 46, 46) !important;
+  cursor: pointer;
+}
