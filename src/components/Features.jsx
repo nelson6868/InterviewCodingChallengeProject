@@ -1,5 +1,6 @@
 import React from "react";
 import { BsArrowRightCircle } from "react-icons/bs";
+import FrameCard from "../assets/FrameCard.png";
 
 export default function Features() {
   return (
@@ -10,8 +11,9 @@ export default function Features() {
           <div className="col-sm-12 col-md-6">
             <h2>Create Paymment Requests</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              sint aspernatur aliquid mollitia quia quo culpa.
+            Make a simple payment link in 5 second’s. Use powerful features to <br/>
+            Customize your request
+
             </p>
             <a href="/">
               Learn More <BsArrowRightCircle className="ms-2" />
@@ -20,9 +22,11 @@ export default function Features() {
           <div className="col-sm-12 col-md-6">
             <h2>Create Paymment Requests</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              sint aspernatur aliquid mollitia quia quo culpa.
-              lllllllll
+            <img
+                src={FrameCard.png}
+                style={{ width: "100%", height: "380px" }}
+                alt=""
+              />
             </p>
           </div>
         </div>

@@ -21,30 +21,34 @@ export default function Solutions() {
             <h5 className="text-decoration-underline text-warning">
               Solutions
             </h5>
-            <h2>Create Paymment Requests</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              sint aspernatur aliquid mollitia quia quo culpa.
+            <h2>Better payments
+
+<br/>Unlimited opportunities</h2>
+            <p >
+            Get faster, more reliable transactions.
+Higher Conversions. Unbeatable insights and flexibility.so you can delight your
+Customers and unlock new revenue streams.
+
             </p>
             <div className="my-3 d-flex">
               <ul class="list-group">
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                  Cras justo odio
+                  Debit and credit cards
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                  Dapibus ac facilisis in
+                  USSD
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                  Morbi leo risus
+                  Bank Account 
                 </li>
               </ul>
               <ul class="list-group">
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                  Cras justo odio
+                POS
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
@@ -52,7 +56,7 @@ export default function Solutions() {
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                  Morbi leo risus
+                  Bank Transfer
                 </li>
               </ul>
             </div>
