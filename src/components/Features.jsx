@@ -29,7 +29,7 @@ export default function Features() {
                 alt=""
               />
                          <button style={{backgroundColor:"#0bb76b",color:"#fff",width:"9rem",margin:"-40%",height:"4rem", top:"0"}}>Copy Link</button>
-                         <span style={{backgroundColor:"#ffff",color:"blue",margin:"-40%",height:"4rem", top:"0"}}>https://www.habarpay.com/940jej...</span>
+                         <span style={{backgroundColor:"#fff",color:"blue",margin:"-40%",height:"4rem", top:"0"}}>https://www.habarpay.com/940jej...</span>
             </p>
 
              
