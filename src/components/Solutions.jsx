@@ -12,7 +12,7 @@ export default function Solutions() {
             <div className="col-8">
               <img
                 src={yugo}
-                style={{ width: "30rem", height: "380px" }}
+                style={{ width: "24em", height: "380px" }}
                 alt=""
               />
             </div>
