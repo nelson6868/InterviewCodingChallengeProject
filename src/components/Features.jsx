@@ -21,7 +21,7 @@ export default function Features() {
             </a>
           </div>
           <div className="col-sm-12 col-md-6">
-            <h2>Create Paymment Requests</h2>
+         
             <p>
             <img
                 src={yugo1}
