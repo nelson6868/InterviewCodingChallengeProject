@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Support() {
     return (
-        <div className='container'>
+        <div className='container' style={{width:"100%"}}>
             <div className="row my-5">
                 <div className="col-5">
                     <h3>Trusted by business al over Africa</h3>

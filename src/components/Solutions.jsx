@@ -12,7 +12,7 @@ export default function Solutions() {
             <div className="col-8">
               <img
                 src={yugo}
-                style={{ width: "100%", height: "380px" }}
+                style={{ width: "30rem", height: "380px" }}
                 alt=""
               />
             </div>
@@ -24,10 +24,10 @@ export default function Solutions() {
             <h2>Better payments
 
 <br/>Unlimited opportunities</h2>
-            <p >
+            <p className="soluttext">
             Get faster, more reliable transactions.
-Higher Conversions. Unbeatable insights and flexibility.so you can delight your
-Customers and unlock new revenue streams.
+             Higher Conversions. Unbeatable insights and flexibility.so you can delight your
+                Customers and unlock new revenue streams.
 
             </p>
             <div className="my-3 d-flex">
@@ -48,15 +48,15 @@ Customers and unlock new revenue streams.
               <ul class="list-group">
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                POS
-                </li>
-                <li class="list-group-item borderless">
-                  <BiCheckSquare className="me-2 text-success" />
-                  Dapibus ac facilisis in
+                Soft POS
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
                   Bank Transfer
+                </li>
+                <li class="list-group-item borderless">
+                  <BiCheckSquare className="me-2 text-success" />
+                  Mobile Money
                 </li>
               </ul>
             </div>
