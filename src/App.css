@@ -3,7 +3,7 @@
   width: 380px;
 }
 .features {
-  margin-top: 40px;
+  margin-top: 200px;
 }
 li.borderless {
   border: 0 none;
@@ -24,13 +24,13 @@ li.borderless {
   text-underline-position: under;
   text-decoration-style:solid !important;
   height:2rem !important;
-  font-size:35px !important;
+  font-size:45px !important;
   color:#1570fd !important;
   font-weight:bold !important;
 }
 .headertext2{
   text-align:left;
-  font-size:1rem;
+  font-size:smaller;
   margin-top: 40px !important;
 }
 
@@ -40,7 +40,8 @@ li.borderless {
 }
 
 .headertext{
-  font-size: 35px !important;
+  font-size:45px !important;
+
   font-weight:bold !important;
   color:#393655 !important;
 }
@@ -72,9 +73,81 @@ li.borderless {
   margin: -17% !important;
    padding-left:65% !important; 
 }
-.soluttext{
+.solutiontext{
   text-align:left;
   font-size:1rem;
+ 
+}
+.solution{
+  color:#d78d60;
+  text-decoration: underline;
+  text-underline-position: under;
+  background-color:#fff3e8;
+  text-decoration-color: #fec9aa;
+  width: 6.4rem;
+  border-bottom: 1px;
+  
+}
+.featuresheader{
+  color:#4931c5;
+  text-decoration: underline;
+  text-underline-position: under;
+  background-color:#e2dcff;
+  text-decoration-color: #bbaefe;
+  width: 5rem;
+
+}
+.featurestexttitle{
+  color: #2e3351;
+  font-size: 30px;
+  font-weight: bolder;
+
+}
+.Scuad {
+  color: #2e3351;
+  font-size: 22px;
+  font-weight: bolder;
+}
+.solutionheader{
+  text-align:left;
+  font-size:2rem;
+  color: #393655;
+  font-weight: bold;
+ 
+  
+}.support{
+  background-color:#ddf6ff!important;
+  text-decoration:underline!important;
+   text-decoration-color:#b6d7ff!important;
+   text-underline-position: under;
+   text-decoration-style:solid !important;
+   height:3rem !important;
+   font-size:35px !important;
+   color:#1570fd !important;
+   font-weight:small !important;
+   margin-top: 10rem;
+   width: 10rem;
+ 
+ }
+
+ .supportsubheader{
+  color: #393655;
+  font-weight: bold;
+
+ }
+ .supporttext{
+   display: flex;
+   margin-top: 1rem;
+ }
+ .supporttex{
+  display: flex;
+  margin-top: 0.2rem;
+}
+ .headertext2{
+   text-align:left;
+   font-size:smaller;
+   margin-top: 40px !important;
+
 }
 .ready{
   background-color:#ddf6ff !important;
@@ -87,6 +160,16 @@ li.borderless {
 }
 .learnmore{
   margin-top:2rem !important;
+}
+.textDisable{
+  cursor: default;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
 }
 
 .learnmore1{

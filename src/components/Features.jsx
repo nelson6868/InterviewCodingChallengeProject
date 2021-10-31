@@ -7,13 +7,13 @@ export default function Features() {
   return (
     <div className="container">
       <div className="features">
-        <h5 className="text-decoration-underline text-primary">Features</h5>
+        <h5 className="featuresheader">Features</h5>
         <div className="row">
           <div className="col-sm-12 col-md-6">
-            <h2>Create Paymment Requests</h2>
+            <h2 className="featurestexttitle">Create Payment Requests</h2>
             <p>
-            Make a simple payment link in 5 second’s. Use powerful features to <br/>
-            Customize your request
+            Make a simple payment link in 5 second’s. Use powerful <br/><p>features to 
+            Customize your request.</p>
 
             </p>
             <a href="/">

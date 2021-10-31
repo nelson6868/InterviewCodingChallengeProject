@@ -1,6 +1,6 @@
 import React from "react";
 import { AiOutlineCheckCircle } from "react-icons/ai";
-import Text from "./Text";
+// import Text from "./Text";
 
 export default function Section() {
   return (
@@ -37,8 +37,9 @@ export default function Section() {
         </div>
       </div>
       <div style={{fontSize:"1rem",textAlign:"center",fontFamily:"arial"}}>
-      <Text text="Fees range between 0.10-2.4NGN(+ additional fees based on % of transaction value). More pricing details Per payment method. Here
-." />
+      {/* <Text text="Fees range between 0.10-2.4NGN(+ additional fees based on % of transaction value). More pricing details Per payment method. Here
+." /> */}
+<span  style={{color:"#999999",fontSize:"small"}}> Fees range between 0.10-2.4NGN(+ additional fees based on % of transaction value). More pricing details Per payment method. Here</span>
 </div>
 
     </div>
