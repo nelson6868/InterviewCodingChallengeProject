@@ -1,5 +1,5 @@
 import React from "react";
-import Button from './Button'
+import CreateFreeActBtn from './CreateFreeActBtn'
 
 export default function Trial() {
   return (
@@ -21,7 +21,7 @@ export default function Trial() {
             </div>
           </div>
           <div className="col-sm-12 col-md-6 text-end">
-            <Button/>
+            <CreateFreeActBtn/>
           </div>
         </div>
       </div>

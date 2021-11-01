@@ -25,10 +25,10 @@ export default function Features() {
             <p>
             <img
                 src={yugo1}
-                style={{ width: "100%", height: "380px" }}
+                style={{ width: "100%", height: "300px" }}
                 alt=""
               />
-             <button className="btn2">Copy Link</button>
+             <button className="buttonCopy">Copy Link</button>
            
             </p>
             

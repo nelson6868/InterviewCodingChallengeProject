@@ -3,7 +3,7 @@
   width: 380px;
 }
 .features {
-  margin-top: 200px;
+  margin-top: 150px;
 }
 li.borderless {
   border: 0 none;
@@ -44,8 +44,9 @@ li.borderless {
 
   font-weight:bold !important;
   color:#393655 !important;
+  margin-top:1rem;
 }
-.btn2{
+.buttonCopy{
    background-color: #0fb46f;
     margin:-40%;
     border: none;
@@ -57,6 +58,20 @@ li.borderless {
     font-size: 16px;
   
 }
+
+.button{
+  background-color:  #0fb46f;
+  border: none;
+  color: white;
+  border-radius:4px;
+  height: 3rem;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .linkWrapper{
   height: 20rem;
   width: 100rem;
@@ -65,13 +80,12 @@ li.borderless {
 .link{
   background-color:#fff;
   color:blue;
-  /* margin:-40%; */
   height:4rem !important;
   position: absolute !important;
   left: 0px !important;
   
-  margin: -17% !important;
-   padding-left:65% !important; 
+  margin: -15% !important;
+   padding-left:60% !important; 
 }
 .solutiontext{
   text-align:left;
@@ -87,6 +101,9 @@ li.borderless {
   width: 6.4rem;
   border-bottom: 1px;
   
+}
+.cadewraper{
+  padding-top: -344% !important;
 }
 .featuresheader{
   color:#4931c5;
@@ -132,8 +149,8 @@ li.borderless {
 
  .supportsubheader{
   color: #393655;
-  font-weight: bold;
-
+  font-weight: bolder;
+  font-size:2rem;
  }
  .supporttext{
    display: flex;

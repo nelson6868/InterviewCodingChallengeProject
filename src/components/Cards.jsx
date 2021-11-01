@@ -9,7 +9,7 @@ export default function Cards() {
         <div className="col-sm-12 col-md-4" >
           <div className="card">
             <div className="card-body">
-              <FcGlobe />
+              <FcGlobe  style={{height:"3rem",width:"3rem"}}/>
               <h5 className="Scuad ">Scuad for Global Brands</h5>
               <p>We help global brands accept payments from across Africa.</p>
              <p className="learnmore1"> <a href="/" className="text-decoration-none">
@@ -21,7 +21,7 @@ export default function Cards() {
         <div className="col-sm-12 col-md-4">
           <div className="card">
             <div className="card-body">
-              <FcManager />
+              <FcManager  style={{height:"3rem",width:"3rem"}}/>
               <h4 className="Scuad ">Scuad for Entreprenueurs</h4>
               From startup to scale-up,we can support<br/>
               you at every stage of your businesses<br/>
@@ -35,7 +35,7 @@ export default function Cards() {
         <div className="col-sm-12 col-md-4">
           <div className="card">
             <div className="card-body">
-              <FcDonate />
+              <FcDonate  style={{height:"3rem",width:"3rem"}} />
               <h5 className="Scuad "> Scuad for Larg Organizations</h5>
               Paystacks helps many of the largest
               corporate and government Organizations in<br/>

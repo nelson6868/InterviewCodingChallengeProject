@@ -10,7 +10,7 @@ export default function Section() {
           <div className="col-8 offset-2 d-flex">
             <AiOutlineCheckCircle style={{fontSize: '28px'}} className="text-success me-2" />
             <p className="text-justif">
-              <strong className="pe-2">Quick setup.</strong>Begin accepting
+              <strong className="pe-1">Quick setup.</strong>Begin accepting
               payments in 15 minutes.
             </p>
           </div>
@@ -19,7 +19,7 @@ export default function Section() {
           <div className="col-8 offset-2 d-flex">
             <AiOutlineCheckCircle style={{fontSize: '28px'}} className="text-success me-2" />
             <p className="text-justify">
-              <strong className="pe-2">Henest pricing.</strong> Only pay for 
+              <strong className="pe-1">Henest pricing.</strong> Only pay for 
               successful transactions
           
             </p>
@@ -29,8 +29,8 @@ export default function Section() {
           <div className="col-8 offset-2 d-flex">
             <AiOutlineCheckCircle style={{fontSize: '28px'}} className="text-success me-2" />
             <p className="text-justify">
-              <strong className="pe-3">All leading payment methods.</strong>
-              The best localised experience
+              <strong className="pe-1">All leading payment methods.</strong>
+             The best localised experience
              
             </p>
           </div>
