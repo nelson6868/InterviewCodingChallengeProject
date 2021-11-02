@@ -5,7 +5,7 @@ export default function Trial() {
   return (
     <div className="container">
       <div className="trial my-5">
-      <span className="ready"> Ready for a Trial?</span>
+      <span className="ready"> Ready for a trial?</span>
               
          
         

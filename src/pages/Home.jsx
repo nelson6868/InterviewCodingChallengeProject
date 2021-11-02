@@ -1,8 +1,8 @@
 import React from "react";
-import Cards from "../components/Cards";
+import Scuad from "../components/Scuad/Scuad";
 import Features from "../components/Features";
 import Header from "../components/Header";
-import Section from "../components/Section";
+import Section from "../components/PaymentCategories/Section"
 import Solutions from "../components/Solutions";
 import Support from "../components/Support";
 import Trial from "../components/Trial";
@@ -17,7 +17,7 @@ export default function Home() {
       <Features />
       <Solutions />
       <Support />
-      <Cards />
+      <Scuad />
       <Trial />
       <Footer />
     </div>

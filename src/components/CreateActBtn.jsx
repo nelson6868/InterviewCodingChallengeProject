@@ -5,7 +5,7 @@ function  CreateActBtn (){
 
     return(
         <div>
-    <button className="button">Create An Account</button>
+    <button className="button">Create an Account</button>
         </div>
     )
 }
