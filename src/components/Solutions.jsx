@@ -23,11 +23,11 @@ export default function Solutions() {
             </h5>
             <h2 className="solutionheader">Better payments,
 
-<br/>unlimited opportunities</h2>
+              <br />unlimited opportunities</h2>
             <p className="solutiontext">
-             Get faster, more reliable transactions.Higher Conversions.<br/>
+              Get faster, more reliable transactions.Higher Conversions.<br />
               Unbeatable insights and flexibility.so you can delight your
-              <br/>Customers and unlock new revenue streams.
+              <br />Customers and unlock new revenue streams.
 
             </p>
             <div className="my-3 d-flex">
@@ -38,11 +38,11 @@ export default function Solutions() {
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                  Bank Account 
+                  Bank Account
                 </li>
                 <li class="list-group-item borderless">
                   <BiCheckSquare className="me-2 text-success" />
-                 Bank Transfer
+                  Bank Transfer
                 </li>
               </ul>
               <ul class="list-group">
