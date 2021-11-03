@@ -10,9 +10,9 @@ export default function ScuadOrganizations() {
     <div className="card">
       <div className="card-body">
         <FcDonate  style={{height:"3rem",width:"3rem"}} />
-        <h5 className="Scuad "> Scuad for Larg organizations</h5>
+        <h5 className="Scuad "> Scuad for Larg Organizations</h5>
         Paystack helps many of the largest
-        corporate and government Organizations in<br/>
+        corporate and government organizations in<br/>
         Nigeria get paid quickly and securely.<br/>
         <p className="learnmore"><a href="/" className="text-decoration-none">
           Learn More <BsArrowRightCircle className="ms-2" />

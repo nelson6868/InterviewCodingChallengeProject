@@ -1,13 +1,13 @@
 import React from "react";
 
-import QuickSetup from '../PaymentCategories/QuickSetup'
-import HenestPricing from '../PaymentCategories/HenestPricing'
-import AllLeadingpayment from '../PaymentCategories/AllLeadingpayment'
+import QuickSetup from './QuickSetup'
+import HenestPricing from './HenestPricing'
+import AllLeadingpayment from './AllLeadingpayment'
 import FeesRange from "../FeesRange"; 
 
 
 
-export default function Section() {
+export default function PaymentCategories() {
   return (
     <div className="container my-5">
       <div className="row">
